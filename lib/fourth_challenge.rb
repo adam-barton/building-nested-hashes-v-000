@@ -11,7 +11,7 @@ def fourth_challenge
             age: "17",
             attitude: "worried"
           },
-          friend_2 {
+          friend_2: {
             name: "mercutio",
             age: "18",
             attitude: "hot-headed"
